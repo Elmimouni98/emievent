@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE emi SYSTEM "file:/C:/Users/hp/Desktop/EmiEvent/EmiEvents.dtd">
+<emi>
+    <club numeroC = "1" nomC="EmiSport" dateCreation="2012" NbMembres="60" type="Loisir et rencontre entre les étudiants des écoles" slogan="One for all for sport">
+        <evenement numero="1" nomE="Olympiades sportives"  date="6 Mars" duree="3" objectifE="Loisir et rencontre entre les étudiants des écoles" />
+        <evenement numero="2" nomE="mini journée"  date="25 Novembre" duree="1" objectifE="Loisir entre les emistes" />
+        <evenement numero="3" nomE="tounoi de l'école"  date="toute l'année" duree="toute l'année" objectifE="Endurance des étudiants"/>
+    </club>
+    <club numeroC = "2" nomC="Forum Emi-Entreprises" dateCreation="1994" NbMembres="28" type="Organizateur de la forum" slogan="Sans">
+        <evenement numero="1" nomE="Le forum"  date="1 Avril" duree="2" objectifE="Faciliter la recherche des stages pour les étudiants" />
+        <evenement numero="2" nomE="Gala"  date="03 Avril" duree="1" objectifE="Loisir" />
+        
+    </club>
+    <club numeroC = "3" nomC="EmiKhayr" dateCreation="2012" NbMembres="60" type="Club social" slogan="United we are">
+        <evenement numero="1" nomE="Le caravane"  date="28 Mars" duree="1" objectifE="Aider les gens dans les villages oubliés" />
+        <evenement numero="2" nomE="Ftour"  date="un jour de ramadan" duree="1" objectifE="Distribuer de 'ftours' aux gens dans le besoin" />
+        <evenement numero="3" nomE="Achouraa"  date="Le jour d'achouraa" duree="1" objectifE="Social" />
+        <evenement numero="4" nomE="Paraolympique"  date="06 Mars" duree="01" objectifE="Socio-sportif" />
+    </club>
+    <club numeroC = "4" nomC="EMInence" dateCreation="1991" NbMembres="20" type="Club culturel" slogan="Sans">
+        <evenement numero="1" nomE="Soirée internationale"  date="28 Février" duree="1" objectifE="Loisir" />
+    </club>
+    <club numeroC = "5" nomC="EMIcinéclub" dateCreation="2015" NbMembres="10" type="Club de la cinéma" slogan="Sans">
+        <evenement numero="1" nomE="Halloween party"  date="20 Novembre" duree="1" objectifE="Loisir" />
+    </club>
+    <club numeroC = "6" nomC="EMIcatronic" dateCreation="2013" NbMembres="40" type="Club de la robotique" slogan="Where robot come to life">
+        <evenement numero="1" nomE="La journée robotique"  date="28 Mars" duree="1" objectifE="Encouragement de la robotique chez les étudiants" />
+    </club>
+    <club numeroC = "7" nomC="EMIaero" dateCreation="2016" NbMembres="18" type="Club de l'aironautique" slogan="We make it fly">
+        <evenement numero="1" nomE="La journée aéronautique"  date="15 Avril" duree="1" objectifE="Encouragement de l'aironautique chez les étudiants" />
+    </club>
+    <club numeroC = "8" nomC="EMIArts" dateCreation="2015" NbMembres="40" type="Club artistique" slogan="Sans">
+        <evenement numero="1" nomE="soirée charity and fun"  date="26 Décembre" duree="1" objectifE="Loisir et social" />
+    </club>
+    <club numeroC = "9" nomC="Linux Party EMI" dateCreation="1991" NbMembres="50" type="Club d'informatique" slogan="Sans">
+        <evenement numero="1" nomE="Des atteliers informatiques"  date="Toute l'année" duree="Toute l'année" objectifE="Enseignement et developpement" />
+        <evenement numero="2" nomE="Compétition CodeEmi"  date="20 Avril" duree="20" objectifE="Encouragement de developpement" />
+    </club>
+    <club numeroC = "10" nomC="EMIGreen" dateCreation="2017" NbMembres="30" type="Club écologique" slogan="Your eco before your ego">
+        <evenement numero="1" nomE="Conférence Débat"  date="15 Mars" duree="1" objectifE="Encouragement de l'ecologie" />
+    </club>
+    <club numeroC = "11" nomC="EmiEconomie" dateCreation="2017" NbMembres="20" type="Club économique" slogan="We simply give you a better vision">
+        <evenement numero="1" nomE="Présentation EMIéconomie"  date="20 April" duree="1" objectifE="La culture économique" />
+        <evenement numero="2" nomE="La Journée Économique de L'Ecole Mohammadia D'Ingénieurs"  date="19 Mars" duree="1" objectifE="Présentation des sujets actuels en relation avec l'économie" />
+    </club>
+    <club numeroC = "12" nomC="Enactus EMI" dateCreation="2009" NbMembres="50" type="Club d'innovation et l'entreprenariat" slogan="sans">
+        <evenement numero="1" nomE="Ateliers"  date="Toute l'année" duree="Toute l'année" objectifE="Innovation" />
+    </club>
+</emi>

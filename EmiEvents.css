@@ -1,0 +1,147 @@
+body {
+    background: #3385ff;
+    background: linear-gradient(to right,  #b3d9ff,#e6f2ff);
+  }
+
+
+#mainNav
+{
+    padding: 15px;
+    color: white;
+    height: 80;
+}
+
+#mainNav.navbar-scrolled {
+    background-color: #dedede;
+  }
+.navbar-brand
+{
+    font-family:"times new roman", times, serif;
+}
+#navbarNav{
+    margin-left: 300px;
+}
+#sticky-footer {
+    flex-shrink: none;
+  }
+.vl {
+    border-left: 1px solid  black;
+    height: 30px;
+    margin-top: 5px;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+.langua{
+    margin-right: 15px;
+    margin-top: 20px;
+}
+article{
+    padding: 30px;
+    padding-top: 90px;
+}
+article ul{
+    margin-top: 170px;
+}
+.container
+{
+    margin-top: 30px;
+}
+.card-header{
+    text-align: center;
+    color: #002e4d;
+}
+.float-left hr{
+    margin-left: 0px;
+    width: 500px;
+}
+.card-body label{
+    color: #002e4d;
+}
+thead
+{
+    color: #002e4d;
+}
+.table
+{
+    text-align: center;
+}
+aside{
+    margin-left: 50px;
+}
+aside .card .card-body label 
+{
+    font-family:verdana;
+    color:#ffd11a;
+}
+aside .card .card-body p {
+    font-family:courier;
+}
+.footer-copyright{
+    background-color:#0099cc;
+}
+footer a {
+    color: #00394d;
+}
+.para{
+    width: 70%;
+}
+.dropdown-menu{
+    max-height: 400px;
+    overflow-y: auto;
+}
+.group .card-footer
+{
+    text-align: center;
+    font-family: "Lucida Console", Courier, monospace;
+}
+.rs{
+    position: relative;
+    left: 5px;
+    font-size: 20px;
+    display: inline-block;
+}
+.rs .fa-instagram{
+    margin-left: 10px;
+}
+
+.rs i{
+    color: midnightblue;
+}
+.carousl
+{
+    text-shadow: 0 1px 0 #002e4d, 0 2px 0 #002e4d, 0 3px 0 #002e4d, 0 4px 0 #002e4d, 0 5px 0 #002e4d, 
+    0 6px 1px rgba(0,0,0,.1), 0 0 5px rgba(0,0,0,.1), 0 1px 3px rgba(0,0,0,.3), 0 3px 5px rgba(0,0,0,.2),
+     0 5px 10px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.2), 0 20px 20px rgba(0,0,0,.15), -1px 2px 2px rgba(206,89,55,0);
+}
+.carousel-caption p{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 16px;
+    letter-spacing: 0px;
+    word-spacing: 3.4px;
+    color: white;
+    font-weight: 700;
+    text-decoration: none solid rgb(68, 68, 68);
+    font-style: italic;
+    font-variant: normal;
+    text-transform: capitalize;
+
+}
+.carouslMargin{
+    margin-top: -730px;
+}
+.carouslCharity{
+    margin-left: -800px;
+    margin-top: -700px;
+}
+.paraCharity{
+    margin-left: -800px;
+}
+.middle{
+    display: inline-block;
+}
+.ico{
+    font-size: 50px;
+}
+.article{
+    margin-top: 0px;
+}
